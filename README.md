@@ -40,7 +40,7 @@ Contributions are welcome! If you would like to improve this project, please fol
 
 ## Author
 
-- [André Silva](https://github.com/andrebsilva10)
+- [André Silva]([https://github.com/andrebsilva10](https://andrebsilva10.github.io/exact-time/))
 
 ## License
 
