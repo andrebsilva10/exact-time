@@ -26,7 +26,7 @@ git clone https://github.com/andrebsilva10/repository-name.git
 
 ## Demo
 
-You can access a live demo of the project [here](https://github.com/andrebsilva10).
+You can access a live demo of the project [here](https://andrebsilva10.github.io/exact-time/).
 
 ## Contribution
 
@@ -40,7 +40,7 @@ Contributions are welcome! If you would like to improve this project, please fol
 
 ## Author
 
-- [André Silva]([https://github.com/andrebsilva10](https://andrebsilva10.github.io/exact-time/))
+- [André Silva]([https://github.com/andrebsilva10])
 
 ## License
 
